@@ -8,7 +8,8 @@
         Sandra Frangen
       </div>
       <div class="text-white/90 max-w-[550px] text-center mt-6 mx-8">
-        Hallo ihr Lieben, danke das ihr auf meiner Seite vorbeischaut. Hier findet ihr alle wichtigen Links zu meinen Social Media Kanälen und meinem Etsy Webshop. Viel Spaß beim Stöbern! 🌸
+        Hallo ihr Lieben, danke das ihr auf meiner Seite vorbeischaut. Hier findet ihr alle wichtigen Links zu meinen
+        Social Media Kanälen und meinen Webshops. Viel Spaß beim Stöbern! 🌸
       </div>
     </div>
     <div class="">
