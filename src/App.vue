@@ -7,7 +7,7 @@
       <div class="font-semibold text-[#CED8CE] text-2xl text-center">
         Sandra Frangen
       </div>
-      <div class="text-white/90 max-w-[550px] text-center mt-6 mx-8">
+      <div class="text-white/90 max-w-[550px] text-center mt-8 mx-8">
         Hallo ihr Lieben, danke das ihr auf meiner Seite vorbeischaut. Hier findet ihr alle wichtigen Links zu meinen
         Social Media Kanälen und meinen Webshops. Viel Spaß beim Stöbern! 🌸
       </div>
@@ -42,9 +42,8 @@
 import AppLink from "@/components/AppLink.vue";
 
 const links = [
-  { to: 'https://www.etsy.com/shop/Floraherz?ref=floraherz.de', name: 'Etsy Webshop', color: 'bg-red-300', image: 'https://i.etsystatic.com/isla/12e5ab/71617295/isla_280x280.71617295_kjyo1y7b.jpg?version=0' },
-  { to: 'https://www.ebay.de/usr/floraherz', name: 'Ebay Webshop', color: 'bg-yellow-300', image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2000px-EBay_logo.svg.png' },
+  { to: 'https://floraherz.etsy.com', name: 'Etsy Webshop', color: 'bg-red-300', image: 'https://i.etsystatic.com/isla/12e5ab/71617295/isla_280x280.71617295_kjyo1y7b.jpg?version=0' },
+
   { to: 'https://itrk.legal/R4I.76.KRp.html', name: 'Instagram AGBs', color: 'bg-blue-300', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' },
   { to: 'https://itrk.legal/R4I.8t.KRp.html', name: 'TikTok AGBs', color: 'bg-green-300', image: 'https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338429_1280.png' },
 ]
